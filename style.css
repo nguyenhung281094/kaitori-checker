@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+input {
+  padding: 10px;
+  width: 260px;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.highest {
+  font-size: 22px;
+  font-weight: bold;
+}
